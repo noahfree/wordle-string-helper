@@ -1,4 +1,6 @@
 # wordle-string-helper
+I would suggest using the Visual Studio Community 2019 IDE to open and run the project using the .sln file or the .csproj file.
+
 For each iteration, the program will prompt the user to enter:
 1) Any correct letters with their correct locations
 2) Any correct letters with their incorrect locations

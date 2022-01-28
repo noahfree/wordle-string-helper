@@ -1,0 +1,14 @@
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\bin\Debug\netcoreapp3.1\Wordle String Algorithm.exe
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\bin\Debug\netcoreapp3.1\Wordle String Algorithm.deps.json
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\bin\Debug\netcoreapp3.1\Wordle String Algorithm.runtimeconfig.json
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\bin\Debug\netcoreapp3.1\Wordle String Algorithm.runtimeconfig.dev.json
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\bin\Debug\netcoreapp3.1\Wordle String Algorithm.dll
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\bin\Debug\netcoreapp3.1\Wordle String Algorithm.pdb
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\obj\Debug\netcoreapp3.1\Wordle String Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\obj\Debug\netcoreapp3.1\Wordle String Algorithm.AssemblyInfoInputs.cache
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\obj\Debug\netcoreapp3.1\Wordle String Algorithm.AssemblyInfo.cs
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\obj\Debug\netcoreapp3.1\Wordle String Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\obj\Debug\netcoreapp3.1\Wordle String Algorithm.dll
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\obj\Debug\netcoreapp3.1\Wordle String Algorithm.pdb
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\obj\Debug\netcoreapp3.1\Wordle String Algorithm.genruntimeconfig.cache
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\Wordle String Algorithm\Wordle String Algorithm\obj\Debug\netcoreapp3.1\Wordle String Algorithm.csproj.AssemblyReference.cache
